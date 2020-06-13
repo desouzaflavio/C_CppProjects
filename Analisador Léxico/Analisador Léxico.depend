@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476205581 source:c:\users\flávio de souza\desktop\analisador léxico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1592067165 source:e:\my_usjt\trabalhos, tcc, projetos e etc's\teoria da computação\analisador léxico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
