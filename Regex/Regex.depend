@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592093738 source:/home/desouza/Documents/Github/C_CppProjects/Regex/main.cpp
+	<iostream>
+	<boost/regex.hpp>
+	<boost/container/vector.hpp>
+

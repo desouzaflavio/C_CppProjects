@@ -26,7 +26,7 @@ void e4();
 void e5();
 void e6();
 
-//Funcoes de transição
+//Funcoes de transiï¿½ï¿½o
 
 void Sigma1();
 void Sigma2();
@@ -39,7 +39,7 @@ void Sigma8();
 void Sigma9();
 void Sigma10();
 
-//Verifica se a Palavra é reservada
+//Verifica se a Palavra ï¿½ reservada
 
 int reservada( char *);
 
@@ -47,7 +47,7 @@ int reservada( char *);
 
 int indice(char *, char *);
 
-//Verifica se os vetores são iguais
+//Verifica se os vetores sï¿½o iguais
 
 int iguais( char *, char *);
 
@@ -55,15 +55,15 @@ int iguais( char *, char *);
 
 void copia(char *, char *);
 
-//Verificar se é caracter
+//Verificar se ï¿½ caracter
 
 int isChar(char);
 
-//Verificar se é Número
+//Verificar se ï¿½ Nï¿½mero
 
 int isNum(char);
 
-//Variavel temporária para analisar comandos
+//Variavel temporï¿½ria para analisar comandos
 
 char TempS[TempS_Len];
 
@@ -95,7 +95,7 @@ int Simb_indice(char *);
 
 char *Res[RES_QTD] = {"if", "else", "then", "goto", "let", "print", "read", "end", "of"};
 
-//Array de Variaveis e números
+//Array de Variaveis e nï¿½meros
 
 int Num[20];
 char *Var[20];
